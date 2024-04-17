@@ -10,7 +10,7 @@ namespace TP_2
     {
         public int ID { get; set; }
         public string Nombre { get; set; }
-        public string Descripcion { get; set; }
+        public string Descripcionn { get; set; }
         public string Codigo { get; set; }
         public Marca Marca { get; set; }
         public Categoria Categoria { get; set; }
